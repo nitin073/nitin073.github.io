@@ -119,7 +119,7 @@ footer {
 /* ========================= */
 #skimg {
     margin: auto;
-    margin-left: 500px;
+    /* margin-left: 500px; */
     width: 20%;
     height: 30%;
     display: block;
